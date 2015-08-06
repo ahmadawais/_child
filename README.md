@@ -1,5 +1,5 @@
 #_child ( aka. Underscore_Child )
-_child is a base child theme for your parent theme
+_child is a base child theme for your parent theme. A child theme boilerplate!
 
 ![_child](https://ahmadawais.com/wp-content/uploads/2015/08/child.jpg)
 
