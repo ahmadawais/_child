@@ -3,6 +3,16 @@
  * Child Theme Functions
  */
 
+/*
+ * Dequeues or Deregisters the Parent Theme's
+ * Scripts, Styles, Post Types, Sidebars or Widgets.
+ * Based on the article by Devin Walker at WordImpress.com:
+ * https://wordimpress.com/removing-styles-scripts-from-your-wordpress-parent-theme/
+ */
+include_once('cleanup_parent/dequeue_scripts.php');
+include_once('cleanup_parent/deregister_posttypes.php');
+include_once('cleanup_parent/deregister_sidebars.php');
+include_once('cleanup_parent/deregister_widgets.php');
 
 /*
  * Enqueue the parent style.css
