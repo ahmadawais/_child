@@ -9,7 +9,7 @@ It includes
 - **functions.php** which enqueues the style.css of parent theme and then style.css of `_child`
 
 ###Branches
-- `cleanup` is a branch which removes common styles, scripts from your parent theme by @mathetos
+- `cleanup` is a branch which Dequeues or Deregisters the Parent Theme's Scripts, Styles, Post Types, Sidebars or Widgets (Contributed by Matt Cromwell @mathetos)
 
 [Read More](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/)
 ###License
