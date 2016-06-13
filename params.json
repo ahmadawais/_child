@@ -1,0 +1,6 @@
+{
+  "name": " child",
+  "tagline": "_child is a WordPress Child Theme Boilerplate",
+  "body": "#_child ( aka. Underscore_Child )\r\n_child is a A WordPress Child Theme Boilerplate! by [Ahmad Awais](http://AhmadAwais.com/about/)\r\n\r\n![_child](https://ahmadawais.com/wp-content/uploads/2015/08/child.jpg)\r\n\r\n##Files\r\nIt includes\r\n- **style.css** which has a tag template for the parent name\r\n- **functions.php** which enqueues the style.css of parent theme and then style.css of `_child`\r\n\r\n[Read More](https://ahmadawais.com/_child-wordpress-child-theme-boilerplate/)\r\n###License\r\n_child is licensed under GPL v2.0 and is distributed as is.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
