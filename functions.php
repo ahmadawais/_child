@@ -5,7 +5,7 @@
  * Functions file for child theme, enqueues parent and child stylesheets by default.
  *
  * @since 	1.0.0
- * @package _child
+ * @package aa
  */
 
 // Exit if accessed directly.
